@@ -1,0 +1,137 @@
+.container{
+    background: white;
+    border: 10px solid ghostwhite;
+    padding: 25px;
+    border-radius: 10px;
+    /* margin: 20px; */
+    width:1000px;
+   
+}
+.primarybtn{
+    background-color: rgb(27, 137, 247);
+    color: white;
+    border: none;
+    padding: 8px 15px;
+    border-radius: 3px;
+    text-decoration: none;
+    cursor: default;
+    transition: all 2s ease;
+    margin-right: 5px;
+    margin-left: 100px;
+}
+.primarybtn:hover{
+    background-color:rgba(52, 135, 218, 0.58) ;
+    color: black;
+}
+.secondarybtn{
+    background-color: rgba(128, 128, 128, 0.68);
+    color: white;
+    border: none;
+    padding: 8px 15px;
+    border-radius: 3px;
+    text-decoration: none;
+    cursor: default;
+    margin-right: 5px;
+
+}
+.secondarybtn:hover{
+    background-color: rgba(128, 128, 128, 0.416) ;
+    color: black;
+}
+.successbtn{
+    background-color:rgba(11, 169, 11, 0.806);
+    color: white;
+    border: none;
+    padding: 8px 15px;
+    border-radius: 3px;
+    text-decoration: none;
+    cursor: default;
+    transition: all 2s ease;
+    margin-right: 5px;
+}
+.successbtn:hover{
+    background-color:rgba(33, 182, 33, 0.696) ;
+    color: black;
+}
+.dangerbtn{
+    background-color:rgba(219, 18, 18, 0.817);
+    color: white;
+    border: none;
+    padding: 8px 15px;
+    border-radius: 3px;
+    text-decoration: none;
+    cursor: default;
+    transition: all 2s ease;
+    margin-right: 5px;
+}
+.dangerbtn:hover{
+    background-color:rgba(180, 32, 32, 0.699) ;
+    color: black;
+}
+.warnbtn{
+    background-color:rgba(254, 254, 59, 0.79);
+    color: black;
+    border: none;
+    padding: 8px 15px;
+    border-radius: 3px;
+    text-decoration: none;
+    cursor: default;
+    transition: all 2s ease;
+    margin-right: 5px;
+}
+.warnbtn:hover{
+    background-color:rgba(218, 218, 37, 0.521) ;
+    color: white;
+}
+.infobtn{
+    background-color:rgba(21, 211, 195, 0.895);
+    color:black;
+    border: none;
+    padding: 8px 15px;
+    border-radius: 3px;
+    text-decoration: none;
+    cursor: default;
+    transition: all 2s ease;
+    margin-right: 5px;
+}
+.infobtn:hover{
+    background-color:rgba(7, 109, 100, 0.479) ;
+    color: white;
+}
+.lightbtn{
+    background-color:white;
+    color: black;
+    border: none;
+    padding: 8px 15px;
+    border-radius: 3px;
+    text-decoration: none;
+    cursor: default;
+    transition: all 2s ease;
+    margin-right: 5px;
+}
+.lightbtn:hover{
+    background-color:rgba(237, 224, 224, 0.603) ;
+    color:rgb(230, 16, 16);
+}
+.darkbtn{
+    background-color:black;
+    color: white;
+    border: none;
+    padding: 8px 15px;
+    border-radius: 3px;
+    text-decoration: none;
+    cursor: default;
+    transition: all 2s ease;
+    margin-right: 5px;
+}
+.darkbtn:hover{
+    background-color:rgba(228, 217, 217, 0.678) ;
+    color: black;
+}
+.link{
+    border: none;
+    background-color: transparent;
+    color: blue;
+    cursor: pointer;
+    text-decoration: underline;
+}
